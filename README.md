@@ -1,6 +1,6 @@
 ## api-sexType 
 
-This is a simple CRUD Api for types of documents of identity.
+This is a simple CRUD Api for types of sex clasification.
 
 ## Installation
 In git bash<br />
